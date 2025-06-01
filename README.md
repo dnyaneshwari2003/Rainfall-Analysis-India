@@ -1,8 +1,5 @@
-Got it! Here’s a **theoretical README** for your **Rainfall Trend Analysis** Python project (no code included):
 
----
-
-# README: Rainfall Trend Analysis (India, 1901-2015)
+# Rainfall Trend Analysis (India, 1901-2015)
 
 ## 📘 Project Overview
 
@@ -67,7 +64,3 @@ This project analyzes long-term rainfall data for India spanning from 1901 to 20
 * Historical data may have inconsistencies or missing values affecting analysis accuracy.
 * Forecasting is based on past patterns and may not fully capture future climatic changes.
 * Regional variability may require more granular data for deeper insights.
-
----
-
-If you want, I can also help you draft a README specifically tailored for your code or a presentation-ready summary. Just let me know!
