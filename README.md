@@ -23,7 +23,7 @@ This project analyzes long-term rainfall data for India spanning from 1901 to 20
 * **Format:** Time series data indexed by year with total annual rainfall values.
 * **Size:** 115 years of data.
 
----
+
 
 ## 🔍 Analytical Techniques Used
 
