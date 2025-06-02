@@ -15,7 +15,7 @@ This project analyzes long-term rainfall data for India spanning from 1901 to 20
 * **Clustering:** Group years with similar rainfall characteristics to identify distinct climatic phases or regions.
 * **Correlation Analysis:** Explore relationships between rainfall and other potential factors or regions.
 
----
+
 
 ## 📥 Data Description
 
