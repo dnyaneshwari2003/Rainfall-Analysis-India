@@ -38,7 +38,6 @@ This project analyzes long-term rainfall data for India spanning from 1901 to 20
 * **Clustering:** Using KMeans to group years or regions with similar rainfall patterns.
 * **Correlation:** Computing correlation coefficients to study relationships between rainfall and other variables.
 
----
 
 ## 🛠 Tools & Libraries
 
