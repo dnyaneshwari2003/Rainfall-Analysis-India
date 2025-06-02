@@ -47,7 +47,7 @@ This project analyzes long-term rainfall data for India spanning from 1901 to 20
 * **Scikit-learn** for clustering and anomaly detection
 * **Prophet** for time series forecasting
 
----
+
 
 ## 🚀 Outcomes
 
