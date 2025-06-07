@@ -6,7 +6,6 @@
 This project analyzes long-term rainfall data for India spanning from 1901 to 2015. The main goal is to explore, visualize, and extract meaningful trends and patterns from historical rainfall records.
 
 
-
 ## 🎯 Objectives
 
 * **Trend Analysis:** Identify how rainfall patterns have changed over time, including any upward or downward trends.
