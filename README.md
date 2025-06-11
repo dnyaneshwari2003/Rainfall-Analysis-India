@@ -55,5 +55,10 @@ This project analyzes long-term rainfall data for India spanning from 1901 to 20
 * Forecast models providing future rainfall estimates to aid in planning and policy-making.
 * Groupings of rainfall patterns that may help understand climatic zones or shifts.
 
+## ⚠️ Limitations
+
+* Historical data may have inconsistencies or missing values affecting analysis accuracy.
+* Forecasting is based on past patterns and may not fully capture future climatic changes.
+* Regional variability may require more granular data for deeper insights.
 
 
